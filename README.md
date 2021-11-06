@@ -54,7 +54,7 @@ The use of dropout and another kind of decoder like conditional random fields co
 
 
 ## References
-[[1] A Survey on Deep Learning forNamed Entity Recognition](./paper/dl_ner_survey.pdf)
+[[1] A Survey on Deep Learning for Named Entity Recognition](./paper/dl_ner_survey.pdf)
 
 [[2] Enterpretable Multi-dataset Evaluation for Named Entity Recognition](./paper/ner_evaluation.pdf)
 
