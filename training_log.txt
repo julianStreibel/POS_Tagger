@@ -1,0 +1,88 @@
+Loading data, embeddings and lookups
+Tokenizing
+Starting training
+
+Epoch: 01
+Train Loss: 0.19877
+Dev acc: 0.957498, dev micro F1: 0.957498, dev macro F1: 0.788518
+
+Epoch: 02
+Train Loss: 0.10398
+Dev acc: 0.964779, dev micro F1: 0.964779, dev macro F1: 0.825397
+
+Epoch: 03
+Train Loss: 0.07196
+Dev acc: 0.966668, dev micro F1: 0.966668, dev macro F1: 0.833361
+
+Epoch: 04
+Train Loss: 0.05138
+Dev acc: 0.967700, dev micro F1: 0.967700, dev macro F1: 0.839326
+
+Epoch: 05
+Train Loss: 0.03763
+Dev acc: 0.968615, dev micro F1: 0.968615, dev macro F1: 0.845442
+
+Epoch: 06
+Train Loss: 0.02894
+Dev acc: 0.968381, dev micro F1: 0.968381, dev macro F1: 0.844242
+
+Epoch: 07
+Train Loss: 0.02340
+Dev acc: 0.968187, dev micro F1: 0.968187, dev macro F1: 0.842605
+
+Epoch: 08
+Train Loss: 0.02025
+Dev acc: 0.967758, dev micro F1: 0.967758, dev macro F1: 0.840394
+
+Epoch: 09
+Train Loss: 0.01780
+Dev acc: 0.966863, dev micro F1: 0.966863, dev macro F1: 0.837716
+
+Epoch: 10
+Train Loss: 0.01609
+Dev acc: 0.967252, dev micro F1: 0.967252, dev macro F1: 0.845393
+
+Epoch: 11
+Train Loss: 0.01482
+Dev acc: 0.968031, dev micro F1: 0.968031, dev macro F1: 0.841628
+
+Epoch: 12
+Train Loss: 0.01401
+Dev acc: 0.969043, dev micro F1: 0.969043, dev macro F1: 0.847526
+
+Epoch: 13
+Train Loss: 0.01370
+Dev acc: 0.968790, dev micro F1: 0.968790, dev macro F1: 0.848081
+
+Epoch: 14
+Train Loss: 0.01302
+Dev acc: 0.968868, dev micro F1: 0.968868, dev macro F1: 0.847912
+
+Epoch: 15
+Train Loss: 0.01287
+Dev acc: 0.969822, dev micro F1: 0.969822, dev macro F1: 0.853417
+
+Epoch: 16
+Train Loss: 0.01237
+Dev acc: 0.970912, dev micro F1: 0.970912, dev macro F1: 0.856486
+
+Epoch: 17
+Train Loss: 0.01196
+Dev acc: 0.970328, dev micro F1: 0.970328, dev macro F1: 0.856993
+
+Epoch: 18
+Train Loss: 0.01202
+Dev acc: 0.970406, dev micro F1: 0.970406, dev macro F1: 0.855725
+
+Epoch: 19
+Train Loss: 0.01131
+Dev acc: 0.969043, dev micro F1: 0.969043, dev macro F1: 0.849477
+
+Epoch: 20
+Train Loss: 0.01194
+Dev acc: 0.968810, dev micro F1: 0.968810, dev macro F1: 0.847694
+
+Test acc: 0.957920, test micro F1: 0.957920, test macro F1: 0.806266
+
+Starting evaluation
+All done.
