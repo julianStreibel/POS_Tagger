@@ -1,11 +1,14 @@
+## Setup
+Download the embeddings from https://nlp.stanford.edu/data/glove.6B.zip and put them in the embeddings directory. In this case you only need the 50 dimensional embeddings.
+
 ## Building
 ```
-docker build . -t python_test_sa
+docker build . -t pos_tagging
 ```
 
 ## Running
 ```
-docker run -it -v "$PWD":/workspace/ --gpus all python_test_sa bash
+docker run -it -v "$PWD":/workspace/ --gpus all pos_tagging bash
 ```
 
 ## Evaluation
